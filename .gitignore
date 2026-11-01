@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+*.pem
+*.key
+
+# Generated files
+*.html
+*.log
+*.db
+
+# OS
+.DS_Store
+Thumbs.db

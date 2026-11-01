@@ -1,0 +1,6 @@
+customtkinter
+psutil
+scapy
+matplotlib
+folium
+mysql-connector-python
